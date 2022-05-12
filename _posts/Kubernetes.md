@@ -1,3 +1,11 @@
+---
+title: Kubernetes
+author: Alex Chen
+date: 2022-05-12
+category: Jekyll
+layout: post
+---
+
 Kubernetes-AlexVersion-20220509
 
 本文档参考官方文档v1.22版本进行整理。（https://v1-22.docs.kubernetes.io/zh/docs/home/）
